@@ -1,0 +1,131 @@
+/* p,ol{
+    color:orange;
+}
+ul,a{
+    color:lime;
+    list-style-type:upper-alpha;
+} */
+/* body{
+    color: rgb(0, 17, 255);
+} */
+/* p.special,li.special
+{
+   color: red; 
+   font-weight: bolder;
+} */
+/* h1.special
+{
+    color: rgb(255, 0, 255);
+    font-weight: bolder;
+} */
+body
+{
+    background-color: rgba(115, 219, 238, 0.918);
+}
+.design{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.bold
+{
+    font-weight: bolder;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button{
+
+background-color: #1322a3;
+  border: none;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+  
+}
+.design2
+{
+    font-size: 20px;
+    font-family: cursive;
+}
+em{
+    font-size: 20px;
+    font-weight: bold;
+}
+h1
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: 25px;
+} 
+hr{
+    height: 5px;
+    background-color:black;
+    border: none;
+}
+a:hover
+{
+    color: yellow;
+    text-decoration:none;
+}
+/* Values */
+/* Background */
+.background
+{
+    background-image: url("image/image2.jpg");
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-attachment: scroll;
+    background-position: center;
+}
+/* Fonts */
+.fonts
+{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.style{
+    font-family:Arial, Helvetica, sans-serif;
+}
+/* Formatting Text */
+.format
+{
+    text-align: center;
+    color: chartreuse;
+}
+/* Text Decoration */
+.decoration
+{
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
+    /* text-decoration: underline overline; */
+}
+/* Text Transformation */
+.transformation
+{
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: none;
+}
+/* Word Spacing */
+.spacing
+{
+    line-height:0;
+    /* word-spacing: px; */
+    text-indent: 100px;
+}
+/* h1
+{
+    text-align: center;
+    background-color: rgb(10, 133, 149);
+    text-shadow: 4px 4px 3px red;
+} */
